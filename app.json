@@ -1,15 +1,20 @@
 {
-    "name": "Queen Amdi",
-    "description": "Queen Amdi [Multi-device] - A WhatsApp based 3ʳᵈ party application that provide many services with a real-time automated conversational experience. 💃🏻❤️",
+    "name": "Faheem King",
+    "description": "*➳ᴹᴿ✿࿐Fᴀʜᴇᴇᴍ Kɪɴɢ♔︎*",
     "keywords": [
-        "Queen Amdi",
+        "Faheem King",
         "WhatsApp",
-        "Black Amda",
+        "Faheem King Bot",
         "multi-device"
     ],
-    "website": "https://amdaniwasa.com/",
-    "repository": "https://github.com/BlackAmda/QueenAmdi",
-    "logo": "https://amdaniwasa.com/assets/QAAppjson.gif",
+    "Bot": "*❖ ─── ✦ ──『✙』── ✦ ─── ❖*
+╭─── ◈☆◈ ───
+╰ *➣* *ᴘᴏsᴛ ʙy⭛⭛*
+*.                 ₀₃₃₃₀₂₉₂₃₃₉*
+*➳ᴹᴿ✿࿐Fᴀʜᴇᴇᴍ Kɪɴɢ♔︎*
+*🅰️Lɪ 🅱️ᴀʙᴀ Eᴋ 🅰️ɴᴅᴀᴀᴢ 🅰️ɴᴅᴇᴋʜᴀ*",
+    "repository": "",
+    "logo": "https://i.ibb.co/bX59Bfx/cover.jpg",
     "success_url": "https://dashboard.heroku.com/apps/",
     "env": {
         "HEROKU": {
@@ -29,7 +34,7 @@
         "TZ": {
             "description": "Your timezone",
             "required": true,
-            "value": "Asia/Colombo"
+            "value": "Asia/Karachi"
         }
     },
     "buildpacks": [
