@@ -1,12 +1,10 @@
 /**
-* @project_name Queen Amdi [WA Multi-device]
-* @author BlackAmda <https://github.com/BlackAmda>
-* @description A WhatsApp based 3ʳᵈ party application that provide many services with a real-time automated conversational experience
-* @link <https://github.com/BlackAmda/QueenAmdi>
+* @project_name Faheem King Bot
+* @author Faheem King
 * @version 4.0.7
 * @file  system_status.js - QueenAmdi system status
 
-© 2022 Black Amda, ANTECH. All rights reserved.
+© 2023 Faheem King, Bot. All rights reserved.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.*/
 
@@ -22,8 +20,8 @@ AMDI({ cmd: ["alive", "hi", "online"], desc: Lang.AliveDesc, type: "primary", re
     var ALIVE_MSG = await getSettings("ALIVE_MSG");
     if (ALIVE_MSG.input === 'default' || ALIVE_MSG.input == undefined) {
         const buttons = [
-            {type: "url", displayText: "💃🏻 Official Website", url: 'https://amdaniwasa.com/'},
-            {type: "url", displayText: "🎞️ AN Tech YouTube Channel", url: 'https://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ'},
+            {type: "url", displayText: "💃🏻 Official Website", url: '*➳ᴹᴿ✿࿐Fᴀʜᴇᴇᴍ Kɪɴɢ♔︎*'},
+            {type: "url", displayText: "🎞️ AN Tech YouTube Channel", url: '*➳ᴹᴿ✿࿐Fᴀʜᴇᴇᴍ Kɪɴɢ♔︎*'},
             {type: "click", displayText: Lang.sysStats, buttonCMD: `${prefix}system`},
             {type: "click", displayText: Lang.vercheck, buttonCMD: `${prefix}qaversion`}
         ]
@@ -55,5 +53,5 @@ AMDI({ cmd: "system", desc: "Bot Status", cmdHideInMenu: true }, (async (amdiWA)
 AMDI({ cmd: ["qaversion", "version"], desc: "Version check", cmdHideInMenu: true }, (async (amdiWA) => {
     let { reply } = amdiWA.msgLayout;
     const version = Package.version
-    return await reply(`*🧬 Queen Amdi Version 🧬*\n\n` + '```Installed version``` : ' + version +'\n' + '\n```Check github``` : https://github.com/BlackAmda/QueenAmdi/');
+    return await reply(`*🧬 Faheem King Bot 🧬*\n\n` + '```Installed version``` : ' + version +'\n' + '\n```Check github``` : ');
 }));
