@@ -8,7 +8,7 @@
 * @project_name *➳ᴹᴿ✿࿐Fᴀʜᴇᴇᴍ Kɪɴɢ♔︎* [WA Multi-device]
 * @author Faheem King <>
 * @version 4.0.7
-* @file  amdiModule.js - Faheem King bot module and Web WA connection
+* @file  amdiModule.js - QueenAmdi module and Web WA connection
 
 © 2023 Faheem King, Bot. All rights reserved.
 Licensed under the  GPL-3.0 License;
