@@ -4,7 +4,7 @@
 * @version 4.0.7
 * @file  db.js - All Queen Amdi Databases chart.
 
-© 2022 Black Amda, ANTECH. All rights reserved.
+© 2023 Faheem King, Bot. All rights reserved.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.*/
 
