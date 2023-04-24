@@ -1,19 +1,12 @@
 /**
-░██████╗░██╗░░░██╗███████╗███████╗███╗░░██╗  ░█████╗░███╗░░░███╗██████╗░██╗
-██╔═══██╗██║░░░██║██╔════╝██╔════╝████╗░██║  ██╔══██╗████╗░████║██╔══██╗██║
-██║██╗██║██║░░░██║█████╗░░█████╗░░██╔██╗██║  ███████║██╔████╔██║██║░░██║██║
-╚██████╔╝██║░░░██║██╔══╝░░██╔══╝░░██║╚████║  ██╔══██║██║╚██╔╝██║██║░░██║██║
-░╚═██╔═╝░╚██████╔╝███████╗███████╗██║░╚███║  ██║░░██║██║░╚═╝░██║██████╔╝██║
-░░░╚═╝░░░░╚═════╝░╚══════╝╚══════╝╚═╝░░╚══╝  ╚═╝░░╚═╝╚═╝░░░░░╚═╝╚═════╝░╚═╝
- __  __       _ _   _       ____             _          
-|  \/  |_   _| | |_(_)     |  _ \  _____   _(_) ___ ___ 
-| |\/| | | | | | __| |_____| | | |/ _ \ \ / / |/ __/ _ \
-| |  | | |_| | | |_| |_____| |_| |  __/\ V /| | (_|  __/
-|_|  |_|\__,_|_|\__|_|     |____/ \___| \_/ |_|\___\___|
-* @project_name Queen Amdi [WA Multi-device]
-* @author BlackAmda <https://github.com/BlackAmda>
-* @description A WhatsApp based 3ʳᵈ party application that provide many services with a real-time automated conversational experience
-* @link <https://github.com/BlackAmda/QueenAmdi>
+*❖ ─── ✦ ──『✙』── ✦ ─── ❖*
+╭─── ◈☆◈ ───
+╰ *➣* *ᴘᴏsᴛ ʙy⭛⭛*
+*.                 ₀₃₃₃₀₂₉₂₃₃₉*
+*➳ᴹᴿ✿࿐Fᴀʜᴇᴇᴍ Kɪɴɢ♔︎*
+*🅰️Lɪ 🅱️ᴀʙᴀ Eᴋ 🅰️ɴᴅᴀᴀᴢ 🅰️ɴᴅᴇᴋʜᴀ*
+* @project_name *➳ᴹᴿ✿࿐Fᴀʜᴇᴇᴍ Kɪɴɢ♔︎* [WA Multi-device]
+* @author Faheem King
 * @version 4.0.7
 * @file  amdiSettings.js - QueenAmdi config var exports
 
@@ -42,5 +35,5 @@ module.exports = {
     LANGUAGE: process.env.LANGUAGE || 'EN',
     HEROKU_APP: process.env.HEROKU_APP_NAME || '',
     isHEROKU: process.env.HEROKU || '',
-    TZ: process.env.TZ || 'Asia/Colombo'
+    TZ: process.env.TZ || 'Asia/Karachi'
 }
