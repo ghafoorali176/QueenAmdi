@@ -1,12 +1,10 @@
 /**
-* @project_name Queen Amdi [WA Multi-device]
-* @author BlackAmda <https://github.com/BlackAmda>
-* @description A WhatsApp based 3ʳᵈ party application that provide many services with a real-time automated conversational experience
-* @link <https://github.com/BlackAmda/QueenAmdi>
+* @project_name Faheem King [WA Multi-device]
+* @author Faheem King
 * @version 4.0.1
 * @file  _bot_control.js - QueenAmdi bot control commands
 
-© 2022 Black Amda, ANTECH. All rights reserved.
+© 2023 Faheem King, Bot. All rights reserved.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.*/
 
