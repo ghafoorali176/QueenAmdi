@@ -1,12 +1,10 @@
 /**
-* @project_name Queen Amdi [WA Multi-device]
-* @author BlackAmda <https://github.com/BlackAmda>
-* @description A WhatsApp based 3ʳᵈ party application that provide many services with a real-time automated conversational experience
-* @link <https://github.com/BlackAmda/QueenAmdi>
+* @project_name Faheem King [WA Multi-device]
+* @author Faheem King
 * @version 4.0.7
 * @file  downloadYT.js - QueenAmdi YouTube downloader
 
-© 2022 Black Amda, ANTECH. All rights reserved.
+© 2023 Faheem King, Bot. All rights reserved.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.*/
 
@@ -55,7 +53,7 @@ AMDI({ cmd: ["song", "yta", "mp3"], desc: Lang.songDesc, example: Lang.songExa, 
         }
     } else if (execYT.isYT) {
         const title = ytVidList[0] ? ytVidList[0].title : ''
-        const ytDlTXT = `*🎶 Queen Amdi YT Downloader*\n\n📄 ${Lang.Title} ${title}`
+        const ytDlTXT = `*🎶 Faheem King Bot YT Downloader*\n\n📄 ${Lang.Title} ${title}`
         const buttons = [
             { type: "url", displayText: "Watch on YouTube", url: input },
             { type: "click", displayText: "🎶 Audio File", buttonCMD: `${prefix}ytdownload audio ${input}` },
@@ -102,7 +100,7 @@ AMDI({ cmd: ["video", "ytv", "mp4"], desc: Lang.videoDesc, example: Lang.videoEx
         }
     } else if (execYT.isYT) {
         const title = ytVidList[0] ? ytVidList[0].title : ''
-        const ytDlTXT = `*🎞️ Queen Amdi YT Downloader*\n\n📄 ${Lang.Title} ${title}`
+        const ytDlTXT = `*🎞️ Faheem King Bot YT Downloader*\n\n📄 ${Lang.Title} ${title}`
         const buttons = [
             { type: "url", displayText: "Watch on YouTube", url: input },
             { type: "click", displayText: "360p Quality", buttonCMD: `${prefix}ytdownload 360 ${input}` },
