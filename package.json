@@ -1,7 +1,7 @@
 {
-    "name": "queen_amdi-multi_device",
+    "name": "Faheem King Bot",
     "version": "4.0.7",
-    "description": "Queen Amdi [WA Multi-device] - A WhatsApp based third party application that provide many services with a real-time automated conversational experience.",
+    "description": "Faheem King Bot",
     "main": "./assets/amdiModule.js",
     "scripts": {
         "package": "yarn install --network-concurrency 1",
@@ -11,7 +11,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/BlackAmda/QueenAmdi.git"
+        "url": "git+"
     },
     "engines": {
         "node": "18.x"
@@ -19,13 +19,13 @@
     "keywords": [
         "whatsapp"
     ],
-    "author": "Black Amda",
-    "developer": "AN Tech",
+    "author": "Faheem King",
+    "developer": "Faheem King",
     "license": "GPL-3.0-or-later",
     "bugs": {
-        "url": "https://github.com/BlackAmda/QueenAmdi/issues"
+        "url": ""
     },
-    "homepage": "https://github.com/BlackAmda/QueenAmdi#readme",
+    "homepage": "",
     "dependencies": {
         "@adiwajshing/baileys": "git+https://github.com/AN-Tech-Crew/BaileysForQueenAmdi.git#3e8a609ad9779ee2ac1726bd63c9736f69231c48",
         "@adiwajshing/keyed-db": "^0.2.4",
