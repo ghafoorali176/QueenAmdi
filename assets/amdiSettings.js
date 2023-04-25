@@ -20,7 +20,7 @@ if (fs.existsSync('amdiSettings.env')) require('dotenv').config({ path: './amdiS
 const DATABASE_URL = process.env.DATABASE_URL.includes("postgres") ? process.env.DATABASE_URL : "./queen_amdi.db"
 
 module.exports = {
-    VERSION: 'Queen Amdi 4.0.7v - Multi-Device',
+    VERSION: 'Faheem King Bot 4.0.7v',
     DATABASE_URL: DATABASE_URL,
     DATABASE:
         DATABASE_URL === './queen_amdi.db'
